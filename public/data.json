@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co/CnWTXFF/10.jpg",
+    "headline": "Luxury Living in the Heart of the City",
+    "paragraph": "Experience urban sophistication in this stunning condo, located in the city's prime neighborhood. Enjoy breathtaking views, modern amenities, and easy access to the city's finest dining and entertainment options. Experience urban sophistication in this stunning condo, located in the city's prime neighborhood. Enjoy breathtaking views, modern amenities, and easy access to the city's finest dining and entertainment options. Experience urban sophistication in this stunning condo, located in the city's prime neighborhood. Enjoy breathtaking views, modern amenities, and easy access to the city's finest dining and entertainment options. Experience urban sophistication in this stunning condo, located in the city's prime neighborhood. Enjoy breathtaking views, modern amenities, and easy access to the city's finest dining and entertainment options."
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co/qn5vFdk/2.png",
+    "headline": "Spacious Family Home with Private Garden",
+    "paragraph": "This family-friendly home offers a peaceful escape from the city. With four large bedrooms and a private garden, it's perfect for family living or hosting gatherings. Ideal for those seeking tranquility and space."
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co/JskqgqZ/1.jpg",
+    "headline": "Modern Townhouse with Rooftop Terrace",
+    "paragraph": "This sleek townhouse features contemporary design with an open-plan layout and a rooftop terrace. Located in a trendy area, it offers easy access to parks, restaurants, and city life, making it ideal for professionals. This sleek townhouse features contemporary design with an open-plan layout and a rooftop terrace. Located in a trendy area, it offers easy access to parks, restaurants, and city life, making it ideal for professionals. This sleek townhouse features contemporary design with an open-plan layout and a rooftop terrace. Located in a trendy area, it offers easy access to parks, restaurants, and city life, making it ideal for professionals. This sleek townhouse features contemporary design with an open-plan layout and a rooftop terrace. Located in a trendy area, it offers easy access to parks, restaurants, and city life, making it ideal for professionals."
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co/fQC0yQk/Condominium.jpg",
+    "headline": "Elegant Condominium with Resort-Style Amenities",
+    "paragraph": "Live in luxury with this beautiful condominium featuring resort-like amenities such as a pool, gym, and concierge services. Enjoy the best of city living with every convenience at your fingertips. Live in luxury with this beautiful condominium featuring resort-like amenities such as a pool, gym, and concierge services. Enjoy the best of city living with every convenience at your fingertips. "
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co/McjsSZV/Single-Family-Home.jpg",
+    "headline": "Charming Suburban Home with Large Backyard",
+    "paragraph": "This charming suburban home offers a large backyard, perfect for family activities or relaxation. With three cozy bedrooms and a peaceful atmosphere, it's a perfect retreat from the hustle and bustle of the city."
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co/b6hBwQp/Townhouse.jpg",
+    "headline": "Stylish Townhouse in a Prime Location",
+    "paragraph": "This well-designed townhouse features a spacious layout with modern finishes. Located near top schools and shopping centers, it provides the ideal mix of luxury, convenience, and a vibrant community environment."
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co/CnWTXFF/10.jpg",
+    "headline": "Luxury Apartment with Skyline Views",
+    "paragraph": "This luxurious apartment offers breathtaking skyline views, modern amenities, and the perfect blend of urban sophistication. Ideal for city living, it's close to restaurants, parks, and entertainment venues."
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co/qn5vFdk/2.png",
+    "headline": "Family-Friendly Home in a Quiet Suburb",
+    "paragraph": "Nestled in a quiet suburb, this spacious family home features a large backyard and open-plan living areas. Perfect for those looking for a peaceful retreat close to schools and community centers."
+  },
+  {
+    "id": 9,
+    "image": "https://i.ibb.co/JskqgqZ/1.jpg",
+    "headline": "Modern Loft in the Heart of the City",
+    "paragraph": "This trendy loft boasts modern finishes, a spacious open-plan design, and plenty of natural light. Located in the city center, it's perfect for professionals seeking a vibrant lifestyle."
+  },
+  {
+    "id": 10,
+    "image": "https://i.ibb.co/fQC0yQk/Condominium.jpg",
+    "headline": "Elegant Condo with Resort-Style Pool",
+    "paragraph": "Relax in this elegant condo with access to resort-style amenities like a pool and fitness center. The modern design and prime location make this a dream home for city dwellers."
+  },
+  {
+    "id": 11,
+    "image": "https://i.ibb.co/McjsSZV/Single-Family-Home.jpg",
+    "headline": "Suburban Family Home with Spacious Yard",
+    "paragraph": "This charming home features a spacious yard, perfect for family gatherings or gardening. Located in a quiet suburb, it's close to schools and offers a peaceful lifestyle."
+  },
+  {
+    "id": 12,
+    "image": "https://i.ibb.co/b6hBwQp/Townhouse.jpg",
+    "headline": "Stylish Townhouse with Modern Interiors",
+    "paragraph": "This contemporary townhouse offers sleek interiors, an open floor plan, and a rooftop terrace. Located in a trendy neighborhood, it's ideal for young professionals."
+  },
+  {
+    "id": 13,
+    "image": "https://i.ibb.co/CnWTXFF/10.jpg",
+    "headline": "Luxury High-Rise with Cityscape Views",
+    "paragraph": "Enjoy cityscape views in this luxury high-rise condo. With access to a private gym, rooftop pool, and concierge services, it's perfect for those who seek convenience and luxury."
+  },
+  {
+    "id": 14,
+    "image": "https://i.ibb.co/qn5vFdk/2.png",
+    "headline": "Family Home with Spacious Living Areas",
+    "paragraph": "This family-oriented home features large bedrooms, multiple living spaces, and a garden. Located in a family-friendly suburb, it's ideal for those who value space and community."
+  },
+  {
+    "id": 15,
+    "image": "https://i.ibb.co/JskqgqZ/1.jpg",
+    "headline": "Chic Apartment in Trendy Neighborhood",
+    "paragraph": "Live in the heart of a trendy neighborhood in this chic apartment. The modern design, large windows, and proximity to restaurants and parks make it perfect for professionals."
+  },
+  {
+    "id": 16,
+    "image": "https://i.ibb.co/fQC0yQk/Condominium.jpg",
+    "headline": "Resort-Like Condo with Pool and Gym",
+    "paragraph": "This beautifully designed condominium offers resort-like amenities including a pool and gym. Located in the heart of the city, it's perfect for those looking for luxury living."
+  },
+  {
+    "id": 17,
+    "image": "https://i.ibb.co/McjsSZV/Single-Family-Home.jpg",
+    "headline": "Cozy Suburban Retreat with Garden",
+    "paragraph": "Escape to this cozy suburban home with a lush garden and peaceful surroundings. Perfect for families looking for a quiet retreat just minutes from the city."
+  },
+  {
+    "id": 18,
+    "image": "https://i.ibb.co/b6hBwQp/Townhouse.jpg",
+    "headline": "Modern Townhouse in Vibrant Community",
+    "paragraph": "This modern townhouse offers stylish finishes, a spacious layout, and access to a vibrant community. Close to top schools and shopping centers, it's perfect for families and professionals."
+  },
+  {
+    "id": 19,
+    "image": "https://i.ibb.co/CnWTXFF/10.jpg",
+    "headline": "Elegant Condo with Panoramic Views",
+    "paragraph": "Experience luxury living in this elegant condo with panoramic city views. The building features state-of-the-art amenities and is located in the city's most sought-after neighborhood."
+  },
+  {
+    "id": 20,
+    "image": "https://i.ibb.co/qn5vFdk/2.png",
+    "headline": "Family Home with a Private Pool",
+    "paragraph": "This family-friendly home features a private pool, spacious living areas, and a large garden. Perfect for summer entertaining and family gatherings."
+  },
+  {
+    "id": 21,
+    "image": "https://i.ibb.co/JskqgqZ/1.jpg",
+    "headline": "Sleek City Loft with High Ceilings",
+    "paragraph": "This sleek city loft features high ceilings, modern finishes, and large windows with plenty of natural light. Located in a bustling urban area, it's perfect for city lovers."
+  },
+  {
+    "id": 22,
+    "image": "https://i.ibb.co/fQC0yQk/Condominium.jpg",
+    "headline": "Luxury Condo with Resort Amenities",
+    "paragraph": "This luxury condo offers resort-style amenities like a pool, spa, and fitness center. The modern design and convenient location make it ideal for city living."
+  },
+  {
+    "id": 23,
+    "image": "https://i.ibb.co/McjsSZV/Single-Family-Home.jpg",
+    "headline": "Charming Home with Large Backyard",
+    "paragraph": "This charming suburban home features a large backyard and cozy living spaces. Ideal for families or those who enjoy outdoor activities."
+  },
+  {
+    "id": 24,
+    "image": "https://i.ibb.co/b6hBwQp/Townhouse.jpg",
+    "headline": "Stylish Townhouse with Modern Design",
+    "paragraph": "This modern townhouse offers sleek finishes, open spaces, and a rooftop terrace. Located in a trendy neighborhood, it's perfect for young professionals."
+  },
+  {
+    "id": 25,
+    "image": "https://i.ibb.co/CnWTXFF/10.jpg",
+    "headline": "Luxury High-Rise with Stunning Views",
+    "paragraph": "This luxury high-rise condo offers stunning views, modern finishes, and access to top-notch amenities. Perfect for those who appreciate the finer things in life."
+  },
+  {
+    "id": 26,
+    "image": "https://i.ibb.co/qn5vFdk/2.png",
+    "headline": "Spacious Family Home with Garden",
+    "paragraph": "This spacious family home features a large garden, perfect for outdoor activities or entertaining guests. Located in a peaceful suburb, it's ideal for family living."
+  },
+  {
+    "id": 27,
+    "image": "https://i.ibb.co/JskqgqZ/1.jpg",
+    "headline": "Chic Loft in the City Center",
+    "paragraph": "This chic loft offers modern design and a prime location in the city center. Perfect for those who enjoy a vibrant, urban lifestyle."
+  },
+  {
+    "id": 28,
+    "image": "https://i.ibb.co/fQC0yQk/Condominium.jpg",
+    "headline": "Elegant Condo with Rooftop Pool",
+    "paragraph": "Live in luxury with this elegant condo featuring a rooftop pool, fitness center, and modern design. Located in the heart of the city, it's perfect for those who value convenience."
+  },
+  {
+    "id": 29,
+    "image": "https://i.ibb.co/McjsSZV/Single-Family-Home.jpg",
+    "headline": "Suburban Home with Cozy Fireplace",
+    "paragraph": "This suburban home features a cozy fireplace and spacious living areas. With a large backyard, it's ideal for families looking for a peaceful retreat."
+  },
+  {
+    "id": 30,
+    "image": "https://i.ibb.co/b6hBwQp/Townhouse.jpg",
+    "headline": "Modern Townhouse in a Vibrant Area",
+    "paragraph": "This modern townhouse offers stylish design, spacious living, and access to a vibrant community. Close to schools, shopping, and parks, it's perfect for families."
+  },
+  {
+    "id": 31,
+    "image": "https://i.ibb.co/CnWTXFF/10.jpg",
+    "headline": "Luxury Apartment with Downtown Views",
+    "paragraph": "Enjoy breathtaking views of downtown from this luxury apartment. With high-end finishes and resort-like amenities, it's the epitome of city living."
+  },
+  {
+    "id": 32,
+    "image": "https://i.ibb.co/qn5vFdk/2.png",
+    "headline": "Spacious Family Home with Pool",
+    "paragraph": "This spacious home features a large pool, perfect for family fun and outdoor entertaining. Located in a peaceful suburb, it's ideal for those seeking tranquility."
+  },
+  {
+    "id": 33,
+    "image": "https://i.ibb.co/JskqgqZ/1.jpg",
+    "headline": "Modern Loft in the Heart of Downtown",
+    "paragraph": "This modern loft offers open spaces, sleek design, and large windows with city views. Perfect for those who love urban living."
+  },
+  {
+    "id": 34,
+    "image": "https://i.ibb.co/fQC0yQk/Condominium.jpg",
+    "headline": "Luxury Condo with Pool and Gym",
+    "paragraph": "This luxury condo features a rooftop pool, gym, and modern design. Located in the heart of the city, it's perfect for professionals seeking convenience and style."
+  },
+  {
+    "id": 35,
+    "image": "https://i.ibb.co/McjsSZV/Single-Family-Home.jpg",
+    "headline": "Charming Suburban Home with Spacious Yard",
+    "paragraph": "This charming suburban home offers a spacious yard and cozy living areas. It's perfect for families looking for a peaceful place to call home."
+  },
+  {
+    "id": 36,
+    "image": "https://i.ibb.co/b6hBwQp/Townhouse.jpg",
+    "headline": "Stylish Townhouse with Modern Finishes",
+    "paragraph": "This modern townhouse offers stylish finishes and a spacious layout. Located in a trendy neighborhood, it's perfect for young professionals."
+  },
+  {
+    "id": 37,
+    "image": "https://i.ibb.co/CnWTXFF/10.jpg",
+    "headline": "Luxury Condo in the City Center",
+    "paragraph": "This luxury condo offers sleek finishes, a rooftop pool, and prime city center location. Ideal for those who love urban living."
+  },
+  {
+    "id": 38,
+    "image": "https://i.ibb.co/qn5vFdk/2.png",
+    "headline": "Spacious Family Home with Private Yard",
+    "paragraph": "This spacious family home features a private yard, perfect for outdoor activities and entertaining. Located in a quiet suburb, it's great for families."
+  },
+  {
+    "id": 39,
+    "image": "https://i.ibb.co/JskqgqZ/1.jpg",
+    "headline": "Chic Loft with Downtown Views",
+    "paragraph": "This chic loft offers downtown views, modern design, and plenty of natural light. Located in the heart of the city, it's perfect for professionals."
+  },
+  {
+    "id": 40,
+    "image": "https://i.ibb.co/fQC0yQk/Condominium.jpg",
+    "headline": "Elegant Condo with Resort-Style Pool",
+    "paragraph": "Relax in this elegant condo with access to a resort-style pool, gym, and concierge services. The modern design and prime location make this a dream home for city dwellers."
+  },
+  {
+    "id": 41,
+    "image": "https://i.ibb.co/McjsSZV/Single-Family-Home.jpg",
+    "headline": "Cozy Home with Large Backyard",
+    "paragraph": "This cozy suburban home offers a large backyard and peaceful living environment. Perfect for families or those who enjoy spending time outdoors."
+  },
+  {
+    "id": 42,
+    "image": "https://i.ibb.co/b6hBwQp/Townhouse.jpg",
+    "headline": "Stylish Townhouse with Modern Design",
+    "paragraph": "This modern townhouse offers sleek interiors, an open floor plan, and a rooftop terrace. Located in a trendy neighborhood, it's ideal for young professionals."
+  },
+  {
+    "id": 43,
+    "image": "https://i.ibb.co/CnWTXFF/10.jpg",
+    "headline": "Luxury Apartment with Skyline Views",
+    "paragraph": "This luxurious apartment offers breathtaking skyline views, modern amenities, and the perfect blend of urban sophistication. Ideal for city living, it's close to restaurants, parks, and entertainment venues."
+  },
+  {
+    "id": 44,
+    "image": "https://i.ibb.co/qn5vFdk/2.png",
+    "headline": "Family-Friendly Home in a Quiet Suburb",
+    "paragraph": "Nestled in a quiet suburb, this spacious family home features a large backyard and open-plan living areas. Perfect for those looking for a peaceful retreat close to schools and community centers."
+  },
+  {
+    "id": 45,
+    "image": "https://i.ibb.co/JskqgqZ/1.jpg",
+    "headline": "Loft Apartment with City Views",
+    "paragraph": "This loft apartment offers panoramic city views and a sleek, open-plan design. Located in the heart of downtown, it's ideal for urban professionals who enjoy the vibrant city life."
+  },
+  {
+    "id": 46,
+    "image": "https://i.ibb.co/fQC0yQk/Condominium.jpg",
+    "headline": "Luxury Condo with Concierge Services",
+    "paragraph": "This luxury condo offers top-of-the-line concierge services, a rooftop pool, and a gym. The sleek, modern design and prime location make it perfect for professionals seeking convenience and style."
+  },
+  {
+    "id": 47,
+    "image": "https://i.ibb.co/McjsSZV/Single-Family-Home.jpg",
+    "headline": "Suburban Family Home with Large Yard",
+    "paragraph": "This charming suburban family home features a large yard perfect for children and pets. It's located in a quiet neighborhood, ideal for families looking for a peaceful retreat."
+  },
+  {
+    "id": 48,
+    "image": "https://i.ibb.co/b6hBwQp/Townhouse.jpg",
+    "headline": "Modern Townhouse with Rooftop Terrace",
+    "paragraph": "This stylish townhouse offers a rooftop terrace, sleek design, and open floor plan. It's located in a trendy neighborhood, making it ideal for young professionals and families alike."
+  },
+  {
+    "id": 49,
+    "image": "https://i.ibb.co/CnWTXFF/10.jpg",
+    "headline": "Elegant Condo with Pool and Gym",
+    "paragraph": "This elegant condo features a resort-style pool, a gym, and concierge services. Located in the city center, it's perfect for those who seek a luxurious and convenient lifestyle."
+  },
+  {
+    "id": 50,
+    "image": "https://i.ibb.co/qn5vFdk/2.png",
+    "headline": "Spacious Suburban Home with Pool",
+    "paragraph": "This spacious home offers a large pool and ample outdoor space, perfect for families and entertaining guests. Located in a serene suburb, it provides peace and privacy."
+  },
+  {
+    "id": 51,
+    "image": "https://i.ibb.co/JskqgqZ/1.jpg",
+    "headline": "Luxury Loft with Skyline Views",
+    "paragraph": "This modern loft offers stunning skyline views, an open layout, and high-end finishes. It's the perfect choice for those who enjoy urban living with a touch of luxury."
+  },
+  {
+    "id": 52,
+    "image": "https://i.ibb.co/fQC0yQk/Condominium.jpg",
+    "headline": "Condo in the City with Gym and Pool",
+    "paragraph": "This upscale condo offers access to a gym, a pool, and concierge services. Located in a vibrant part of the city, it combines convenience with luxurious living."
+  },
+  {
+    "id": 53,
+    "image": "https://i.ibb.co/McjsSZV/Single-Family-Home.jpg",
+    "headline": "Charming Home with Large Backyard",
+    "paragraph": "This cozy family home features a large backyard perfect for outdoor activities. Situated in a quiet, family-friendly suburb, it's ideal for raising a family."
+  },
+  {
+    "id": 54,
+    "image": "https://i.ibb.co/b6hBwQp/Townhouse.jpg",
+    "headline": "Contemporary Townhouse in Trendy Area",
+    "paragraph": "This contemporary townhouse offers sleek finishes, a rooftop terrace, and open living spaces. Located in a bustling and trendy neighborhood, it's great for professionals and families."
+  },
+  {
+    "id": 55,
+    "image": "https://i.ibb.co/CnWTXFF/10.jpg",
+    "headline": "Luxury Condo with Skyline Views and Pool",
+    "paragraph": "This luxury condo offers breathtaking skyline views, access to a rooftop pool, and modern amenities. Perfect for city living, it's located close to restaurants, parks, and entertainment venues."
+  },
+  {
+    "id": 56,
+    "image": "https://i.ibb.co/qn5vFdk/2.png",
+    "headline": "Family Home with Large Yard and Pool",
+    "paragraph": "This spacious family home features a large backyard with a pool, making it ideal for outdoor activities and entertaining. Located in a quiet suburb, it's perfect for families looking for tranquility."
+  },
+  {
+    "id": 57,
+    "image": "https://i.ibb.co/JskqgqZ/1.jpg",
+    "headline": "Stylish Loft in the Heart of the City",
+    "paragraph": "This modern loft boasts an open layout, sleek finishes, and large windows offering city views. It's perfect for urban professionals who want to be in the heart of the action."
+  },
+  {
+    "id": 58,
+    "image": "https://i.ibb.co/fQC0yQk/Condominium.jpg",
+    "headline": "Condo with Gym, Pool, and Concierge Services",
+    "paragraph": "This luxury condo offers access to a gym, pool, and concierge services. Located in the heart of the city, it's perfect for those who enjoy a convenient, luxurious lifestyle."
+  },
+  {
+    "id": 59,
+    "image": "https://i.ibb.co/McjsSZV/Single-Family-Home.jpg",
+    "headline": "Suburban Family Home with Large Backyard",
+    "paragraph": "This charming home features a large backyard, perfect for family gatherings and outdoor fun. Located in a peaceful suburb, it's ideal for those seeking tranquility and space."
+  },
+  {
+    "id": 60,
+    "image": "https://i.ibb.co/b6hBwQp/Townhouse.jpg",
+    "headline": "Modern Townhouse with Open Plan Living",
+    "paragraph": "This stylish townhouse offers modern finishes, an open floor plan, and a rooftop terrace. It's located in a trendy neighborhood, making it perfect for young professionals and small families."
+  },
+  {
+    "id": 61,
+    "image": "https://i.ibb.co/0GVGJzC/ferrari-portofino-car-wallpaper-preview.jpg",
+    "headline": "Luxury Sports Car with High-Performance",
+    "paragraph": "This Ferrari Portofino offers the ultimate luxury experience, featuring a powerful engine and sleek design. Perfect for car enthusiasts seeking a high-performance vehicle."
+  },
+  {
+    "id": 62,
+    "image": "https://i.ibb.co/ctphQhN/download.jpg",
+    "headline": "Stunning Coastal Mansion",
+    "paragraph": "This coastal mansion offers breathtaking ocean views, a large infinity pool, and modern architecture. Ideal for luxury living by the sea."
+  },
+  {
+    "id": 63,
+    "image": "https://i.ibb.co/419D31G/bmw-2-logo-png-transparent.png",
+    "headline": "Luxury BMW with State-of-the-Art Features",
+    "paragraph": "This BMW model features cutting-edge technology, a sleek exterior, and a high-powered engine, providing the perfect mix of luxury and performance."
+  },
+  {
+    "id": 64,
+    "image": "https://i.ibb.co/X5QgS1g/tea.jpg",
+    "headline": "Cozy Cottage with Scenic Views",
+    "paragraph": "This charming cottage offers a peaceful retreat with stunning views of the countryside. Perfect for those who enjoy a quiet and cozy lifestyle."
+  },
+  {
+    "id": 65,
+    "image": "https://i.ibb.co/0pLkQ1r/Fall-Wedding-Decorations-4.jpg",
+    "headline": "Elegant Estate with Wedding Venue",
+    "paragraph": "This beautiful estate features a luxurious wedding venue, complete with elegant fall decorations and stunning outdoor spaces for special occasions."
+  },
+  {
+    "id": 66,
+    "image": "https://i.ibb.co/xYsnvhF/wedding-cake-feat.jpg",
+    "headline": "Charming Home with Event Space",
+    "paragraph": "This quaint property offers an ideal event space, perfect for weddings and gatherings. It comes with a large backyard and a welcoming atmosphere."
+  },
+  {
+    "id": 67,
+    "image": "https://i.ibb.co/5kRFLLg/Rectangle-4281.jpg",
+    "headline": "Modern Office Building in the City",
+    "paragraph": "This modern office space provides a professional environment, perfect for businesses looking for a prime location with sleek, contemporary design."
+  },
+  {
+    "id": 68,
+    "image": "https://i.ibb.co/xsSdG2x/Education.png",
+    "headline": "Educational Facility with State-of-the-Art Labs",
+    "paragraph": "This educational building offers advanced laboratories and classroom spaces, ideal for institutions focusing on innovation and technology."
+  },
+  {
+    "id": 69,
+    "image": "https://i.ibb.co/7Jsx5F2/Food.png",
+    "headline": "Restaurant Space with Modern Interior",
+    "paragraph": "This well-designed restaurant space is ready for culinary entrepreneurs. The modern interior creates a welcoming environment for diners."
+  },
+  {
+    "id": 70,
+    "image": "https://i.ibb.co/xDJf3Px/Clothing.png",
+    "headline": "Retail Store in High Traffic Location",
+    "paragraph": "This prime retail location offers ample foot traffic and modern fittings, ideal for clothing stores or boutiques looking for a great shopping district."
+  },
+  {
+    "id": 71,
+    "image": "https://i.ibb.co/NTpdDpf/yeshi-kangrang-P-2-Cxt-Qv-UQY-unsplash.jpg",
+    "headline": "Stylish Loft in the City Center",
+    "paragraph": "This sleek city loft features an open layout and modern decor, perfect for professionals seeking a luxurious living space in a vibrant urban area."
+  },
+  {
+    "id": 72,
+    "image": "https://i.ibb.co/0GVGJzC/ferrari-portofino-car-wallpaper-preview.jpg",
+    "headline": "High-End Sports Car for Car Enthusiasts",
+    "paragraph": "This Ferrari Portofino provides a smooth and fast driving experience with its powerful engine and luxurious design, ideal for car lovers."
+  },
+  {
+    "id": 73,
+    "image": "https://i.ibb.co/ctphQhN/download.jpg",
+    "headline": "Beachfront Villa with Private Pool",
+    "paragraph": "This beachfront villa offers private access to the ocean, a large pool, and elegant interiors, perfect for a luxurious getaway by the water."
+  },
+  {
+    "id": 74,
+    "image": "https://i.ibb.co/419D31G/bmw-2-logo-png-transparent.png",
+    "headline": "Luxury BMW Sedan with Advanced Features",
+    "paragraph": "This BMW sedan offers a mix of luxury and performance, featuring advanced tech systems and a smooth driving experience."
+  },
+  {
+    "id": 75,
+    "image": "https://i.ibb.co/X5QgS1g/tea.jpg",
+    "headline": "Charming Cottage with Garden Views",
+    "paragraph": "This charming cottage offers a large garden and scenic views of the countryside, ideal for those seeking a peaceful, nature-filled lifestyle."
+  },
+  {
+    "id": 76,
+    "image": "https://i.ibb.co/0pLkQ1r/Fall-Wedding-Decorations-4.jpg",
+    "headline": "Estate Property with Event Space",
+    "paragraph": "This elegant estate provides a beautiful event space for weddings and special occasions, with stunning outdoor areas and a cozy atmosphere."
+  },
+  {
+    "id": 77,
+    "image": "https://i.ibb.co/xYsnvhF/wedding-cake-feat.jpg",
+    "headline": "Home with Outdoor Entertainment Area",
+    "paragraph": "This charming home features a spacious outdoor entertainment area, perfect for hosting family gatherings and celebrations."
+  },
+  {
+    "id": 78,
+    "image": "https://i.ibb.co/5kRFLLg/Rectangle-4281.jpg",
+    "headline": "Contemporary Office Space in Prime Location",
+    "paragraph": "This modern office space offers an ideal location for businesses, with sleek interiors and a professional atmosphere."
+  },
+  {
+    "id": 79,
+    "image": "https://i.ibb.co/xsSdG2x/Education.png",
+    "headline": "University Building with Advanced Facilities",
+    "paragraph": "This university building provides state-of-the-art facilities and classrooms, perfect for higher education institutions looking for innovation."
+  },
+  {
+    "id": 80,
+    "image": "https://i.ibb.co/7Jsx5F2/Food.png",
+    "headline": "Commercial Restaurant Space for Lease",
+    "paragraph": "This fully equipped restaurant space is perfect for a new culinary venture, offering modern interiors and a high-traffic location."
+  },
+  {
+    "id": 81,
+    "image": "https://i.ibb.co/xDJf3Px/Clothing.png",
+    "headline": "Prime Retail Space in Shopping District",
+    "paragraph": "This retail store is located in a bustling shopping district, featuring a sleek design and high visibility, perfect for fashion retailers."
+  },
+  {
+    "id": 82,
+    "image": "https://i.ibb.co/NTpdDpf/yeshi-kangrang-P-2-Cxt-Qv-UQY-unsplash.jpg",
+    "headline": "Urban Loft with Modern Design",
+    "paragraph": "This loft apartment offers a modern design and an open-concept layout, perfect for those seeking an upscale urban lifestyle."
+  },
+  {
+    "id": 83,
+    "image": "https://i.ibb.co/0GVGJzC/ferrari-portofino-car-wallpaper-preview.jpg",
+    "headline": "Exotic Ferrari Sports Car",
+    "paragraph": "This Ferrari Portofino offers high-end luxury and performance, featuring an aerodynamic design and powerful engine for the ultimate driving experience."
+  },
+  {
+    "id": 84,
+    "image": "https://i.ibb.co/ctphQhN/download.jpg",
+    "headline": "Beach Villa with Stunning Views",
+    "paragraph": "This beachfront villa offers luxurious living with panoramic ocean views, a private pool, and direct access to the beach."
+  },
+  {
+    "id": 85,
+    "image": "https://i.ibb.co/419D31G/bmw-2-logo-png-transparent.png",
+    "headline": "Premium BMW with Innovative Technology",
+    "paragraph": "This BMW model offers top-tier technology and a premium driving experience, with a sleek design and luxurious interior."
+  },
+  {
+    "id": 86,
+    "image": "https://i.ibb.co/X5QgS1g/tea.jpg",
+    "headline": "Cozy Country Cottage with Tea Garden",
+    "paragraph": "This peaceful cottage offers a quaint lifestyle with a beautiful tea garden and scenic countryside views, perfect for relaxation."
+  },
+  {
+    "id": 87,
+    "image": "https://i.ibb.co/0pLkQ1r/Fall-Wedding-Decorations-4.jpg",
+    "headline": "Elegant Event Space with Autumn Décor",
+    "paragraph": "This estate features a beautifully designed event space perfect for fall weddings or seasonal celebrations, with sophisticated autumn-themed decorations."
+  },
+  {
+    "id": 88,
+    "image": "https://i.ibb.co/xYsnvhF/wedding-cake-feat.jpg",
+    "headline": "Charming Wedding Venue with Picturesque Backdrop",
+    "paragraph": "This venue offers an idyllic setting for weddings, with a picturesque backdrop and ample outdoor space for guests, perfect for a romantic ceremony."
+  },
+  {
+    "id": 89,
+    "image": "https://i.ibb.co/5kRFLLg/Rectangle-4281.jpg",
+    "headline": "High-End Commercial Building with Modern Offices",
+    "paragraph": "This commercial property offers high-end office spaces, equipped with the latest amenities and designed for a modern business environment."
+  },
+  {
+    "id": 90,
+    "image": "https://i.ibb.co/xsSdG2x/Education.png",
+    "headline": "State-of-the-Art Educational Center",
+    "paragraph": "This educational facility is equipped with the latest technology and modern classrooms, designed for innovative learning and research."
+  },
+  {
+    "id": 91,
+    "image": "https://i.ibb.co/7Jsx5F2/Food.png",
+    "headline": "Modern Restaurant Space with Gourmet Potential",
+    "paragraph": "This stylish restaurant space is located in a high-traffic area, offering the perfect setting for a new gourmet dining experience."
+  },
+  {
+    "id": 92,
+    "image": "https://i.ibb.co/xDJf3Px/Clothing.png",
+    "headline": "Trendy Boutique Space in Prime Location",
+    "paragraph": "This retail space is located in a popular shopping area, ideal for fashion boutiques looking to attract a high-end clientele."
+  },
+  {
+    "id": 93,
+    "image": "https://i.ibb.co/NTpdDpf/yeshi-kangrang-P-2-Cxt-Qv-UQY-unsplash.jpg",
+    "headline": "Stylish Loft Apartment with Open Floor Plan",
+    "paragraph": "This stylish loft offers modern living with an open floor plan, large windows, and a sleek design, perfect for urban dwellers."
+  },
+  {
+    "id": 94,
+    "image": "https://i.ibb.co/0GVGJzC/ferrari-portofino-car-wallpaper-preview.jpg",
+    "headline": "Luxury Ferrari Portofino - A Statement of Elegance",
+    "paragraph": "This stunning Ferrari Portofino combines high performance with a luxurious design, making it the perfect choice for those who seek the ultimate driving experience."
+  },
+  {
+    "id": 95,
+    "image": "https://i.ibb.co/ctphQhN/download.jpg",
+    "headline": "Sleek Modern Vehicle with Advanced Features",
+    "paragraph": "This modern car offers advanced features, a sleek exterior, and powerful engine performance, ideal for car enthusiasts who value speed and style."
+  },
+  {
+    "id": 96,
+    "image": "https://i.ibb.co/419D31G/bmw-2-logo-png-transparent.png",
+    "headline": "BMW - The Ultimate Driving Machine",
+    "paragraph": "Experience the thrill of driving a BMW, known for its exceptional engineering, luxurious interior, and innovative technology. The perfect car for the modern driver."
+  },
+  {
+    "id": 97,
+    "image": "https://i.ibb.co/X5QgS1g/tea.jpg",
+    "headline": "Charming Café with Specialty Teas",
+    "paragraph": "This quaint café offers a wide selection of specialty teas, perfect for tea lovers looking to unwind in a cozy and welcoming environment."
+  },
+  {
+    "id": 98,
+    "image": "https://i.ibb.co/0pLkQ1r/Fall-Wedding-Decorations-4.jpg",
+    "headline": "Autumn Wedding Venue with Rustic Charm",
+    "paragraph": "This wedding venue offers a rustic and charming atmosphere with autumn-inspired décor, creating a memorable setting for your special day."
+  },
+  {
+    "id": 99,
+    "image": "https://i.ibb.co/xYsnvhF/wedding-cake-feat.jpg",
+    "headline": "Beautiful Event Space with Custom Wedding Cakes",
+    "paragraph": "This event space offers beautiful scenery for weddings and special occasions, featuring custom-designed wedding cakes and catering services."
+  },
+  {
+    "id": 100,
+    "image": "https://i.ibb.co/5kRFLLg/Rectangle-4281.jpg",
+    "headline": "Modern Office Space with Premium Facilities",
+    "paragraph": "This office space offers premium facilities and state-of-the-art technology, providing a professional and modern environment for businesses."
+  },
+  {
+    "id": 101,
+    "image": "https://i.ibb.co/xsSdG2x/Education.png",
+    "headline": "Innovative Learning Center with Modern Technology",
+    "paragraph": "This learning center offers modern educational tools and technologies to enhance the learning experience for students of all ages."
+  },
+  {
+    "id": 102,
+    "image": "https://i.ibb.co/7Jsx5F2/Food.png",
+    "headline": "Gourmet Food Market with Fresh Produce",
+    "paragraph": "Explore this gourmet food market offering a wide selection of fresh, organic produce and artisan goods, perfect for food lovers and health-conscious shoppers."
+  },
+  {
+    "id": 103,
+    "image": "https://i.ibb.co/xDJf3Px/Clothing.png",
+    "headline": "Fashion Boutique with the Latest Trends",
+    "paragraph": "Step into this fashion-forward boutique featuring the latest clothing trends and accessories for both men and women, perfect for style enthusiasts."
+  },
+  {
+    "id": 104,
+    "image": "https://i.ibb.co/NTpdDpf/yeshi-kangrang-P-2-Cxt-Qv-UQY-unsplash.jpg",
+    "headline": "Mountain Retreat with Breathtaking Views",
+    "paragraph": "This secluded mountain retreat offers stunning views and serene surroundings, ideal for those looking to escape and enjoy nature in its purest form."
+  },
+  {
+    "id": 105,
+    "image": "https://i.ibb.co/0GVGJzC/ferrari-portofino-car-wallpaper-preview.jpg",
+    "headline": "Exotic Sports Car with High Performance",
+    "paragraph": "Unleash the power of this exotic sports car, designed for those who crave speed and luxury. Experience top-tier performance and unparalleled driving pleasure."
+  },
+  {
+    "id": 106,
+    "image": "https://i.ibb.co/ctphQhN/download.jpg",
+    "headline": "Sophisticated Sedan with Elegant Design",
+    "paragraph": "This sophisticated sedan features an elegant design and cutting-edge technology, providing comfort and luxury for the modern driver."
+  },
+  {
+    "id": 107,
+    "image": "https://i.ibb.co/419D31G/bmw-2-logo-png-transparent.png",
+    "headline": "BMW Series - Redefining Performance and Luxury",
+    "paragraph": "The BMW Series redefines the standards of performance and luxury, offering a seamless driving experience with innovative features and a luxurious interior."
+  },
+  {
+    "id": 108,
+    "image": "https://i.ibb.co/X5QgS1g/tea.jpg",
+    "headline": "Elegant Tea Room with Premium Blends",
+    "paragraph": "Indulge in premium tea blends in this elegant tea room, where the atmosphere and variety of teas create a perfect space for relaxation."
+  },
+  {
+    "id": 109,
+    "image": "https://i.ibb.co/0pLkQ1r/Fall-Wedding-Decorations-4.jpg",
+    "headline": "Cozy Wedding Venue with Seasonal Décor",
+    "paragraph": "This intimate wedding venue boasts cozy, seasonal décor, perfect for couples looking to celebrate their love in a charming and welcoming setting."
+  },
+  {
+    "id": 110,
+    "image": "https://i.ibb.co/xYsnvhF/wedding-cake-feat.jpg",
+    "headline": "Exquisite Wedding Cakes for Every Celebration",
+    "paragraph": "Create unforgettable memories with our exquisite wedding cakes, designed to match the theme of your special day and crafted with the finest ingredients."
+  },
+  {
+    "id": 111,
+    "image": "https://i.ibb.co.com/9rJdSg3/Image1.png",
+    "headline": "Luxury Home with Spacious Interiors",
+    "paragraph": "This elegant home features large open spaces, perfect for family gatherings and events. Located in a quiet suburban neighborhood with access to local parks and top schools."
+  },
+  {
+    "id": 112,
+    "image": "https://i.ibb.co.com/G0yZ4Yf/person.jpg",
+    "headline": "Urban Apartment with Modern Finishes",
+    "paragraph": "Discover the convenience of city living in this stylish apartment. Equipped with modern appliances and finishes, it offers the perfect blend of comfort and urban lifestyle."
+  },
+  {
+    "id": 113,
+    "image": "https://i.ibb.co.com/9mXHwwq/4.jpg",
+    "headline": "Mountain Cabin Getaway",
+    "paragraph": "Escape the hustle and bustle with this cozy mountain cabin, surrounded by nature. The perfect spot for a peaceful retreat or adventurous weekends."
+  },
+  {
+    "id": 114,
+    "image": "https://i.ibb.co.com/zN2pKqB/3.jpg",
+    "headline": "Chic Condo in Downtown",
+    "paragraph": "Live in the heart of the city with this chic, modern condo. Steps away from the best dining and entertainment, this home offers urban convenience at its finest."
+  },
+  {
+    "id": 115,
+    "image": "https://i.ibb.co.com/zFBVW58/2.jpg",
+    "headline": "Beachfront Paradise",
+    "paragraph": "Wake up to stunning ocean views in this luxurious beachfront home. Enjoy the serenity of coastal living with direct access to the beach and top amenities."
+  },
+  {
+    "id": 116,
+    "image": "https://i.ibb.co.com/JskqgqZ/1.jpg",
+    "headline": "Suburban Family Retreat",
+    "paragraph": "A perfect home for growing families, this suburban retreat offers spacious living areas, a large backyard, and proximity to excellent schools."
+  },
+  {
+    "id": 117,
+    "image": "https://i.ibb.co.com/fQC0yQk/Condominium.jpg",
+    "headline": "Luxury Condominium with Skyline Views",
+    "paragraph": "Enjoy breathtaking city skyline views from this luxury condominium. Featuring high-end finishes, a private balcony, and access to exclusive amenities."
+  },
+  {
+    "id": 118,
+    "image": "https://i.ibb.co.com/McjsSZV/Single-Family-Home.jpg",
+    "headline": "Spacious Single-Family Home",
+    "paragraph": "This beautifully designed single-family home is located in a peaceful neighborhood, offering a large garden, spacious interiors, and modern appliances."
+  },
+  {
+    "id": 119,
+    "image": "https://i.ibb.co.com/ynhq2y7/slide3.jpg",
+    "headline": "Modern Living with a Touch of Nature",
+    "paragraph": "Surrounded by greenery, this modern home offers the perfect balance of nature and luxury. Enjoy the serenity of the outdoors with all modern comforts inside."
+  },
+  {
+    "id": 120,
+    "image": "https://i.ibb.co.com/hMDq8Wc/slide2.jpg",
+    "headline": "Countryside Manor with Panoramic Views",
+    "paragraph": "Experience luxury living in this grand countryside manor. Featuring panoramic views, spacious grounds, and high-end finishes, this home is the epitome of elegance."
+  },
+  {
+    "id": 121,
+    "image": "https://i.ibb.co.com/4MwFr6X/slide1.jpg",
+    "headline": "Charming Cottage by the Lake",
+    "paragraph": "This cozy lakefront cottage offers serene views and a peaceful environment. Perfect for weekend getaways or a permanent escape from the city."
+  },
+  {
+    "id": 122,
+    "image": "https://i.ibb.co.com/bJK9JXR/05.png",
+    "headline": "High-Rise Condo with Panoramic City Views",
+    "paragraph": "Enjoy stunning panoramic views of the city from this luxurious high-rise condo. Featuring modern amenities, spacious living areas, and top-tier security."
+  },
+  {
+    "id": 123,
+    "image": "https://i.ibb.co.com/QfXJxvs/04.jpg",
+    "headline": "Modern Villa with Private Pool",
+    "paragraph": "This stunning villa features a private pool and spacious outdoor area, perfect for entertaining. Enjoy modern design and luxury finishes throughout."
+  },
+  {
+    "id": 124,
+    "image": "https://i.ibb.co.com/mBm94rm/03.png",
+    "headline": "Elegant Penthouse in Prime Location",
+    "paragraph": "This elegant penthouse offers a premium lifestyle in a prime urban location. The property boasts expansive living spaces and private rooftop access."
+  },
+  {
+    "id": 125,
+    "image": "https://i.ibb.co.com/dpzT3BY/02.jpg",
+    "headline": "Luxury Mansion with Oceanfront Views",
+    "paragraph": "A luxurious mansion with direct access to the beach and expansive oceanfront views. This home is designed for the most discerning buyer, offering privacy and exclusivity."
+  },
+  {
+    "id": 126,
+    "image": "https://i.ibb.co.com/xGCfsc7/01.jpg",
+    "headline": "Sprawling Estate in the Countryside",
+    "paragraph": "This sprawling countryside estate offers luxury living with acres of privacy. Ideal for equestrian activities or those seeking peace and seclusion."
+  },
+  {
+    "id": 127,
+    "image": "https://i.ibb.co.com/FqmbMVC/Bofey.jpg",
+    "headline": "Luxury Loft with Modern Design",
+    "paragraph": "A sleek and stylish loft located in the heart of the city. This home is perfect for young professionals seeking a trendy and modern living space."
+  },
+  {
+    "id": 128,
+    "image": "https://i.ibb.co.com/JxPDP1X/Room2.jpg",
+    "headline": "City Penthouse with Expansive Balcony",
+    "paragraph": "This city penthouse offers luxury and comfort, with an expansive balcony perfect for entertaining guests or enjoying quiet evenings overlooking the city."
+  },
+  {
+    "id": 129,
+    "image": "https://i.ibb.co.com/6ryNqft/Room1.jpg",
+    "headline": "Chic Studio in Downtown",
+    "paragraph": "A chic and compact studio apartment in the heart of downtown. Perfect for those looking for a low-maintenance living space with easy access to city life."
+  },
+  {
+    "id": 130,
+    "image": "https://i.ibb.co.com/2vt1cnJ/Room3.jpg",
+    "headline": "Family Home with Large Backyard",
+    "paragraph": "This spacious family home offers a large backyard, ideal for children and pets. Located in a friendly neighborhood with excellent schools."
+  },
+  {
+    "id": 131,
+    "image": "https://i.ibb.co.com/FnCCqhf/Room4.jpg",
+    "headline": "Designer Loft with Floor-to-Ceiling Windows",
+    "paragraph": "This stunning designer loft features floor-to-ceiling windows, offering breathtaking views of the city skyline. The modern interior design complements its urban setting."
+  },
+  {
+    "id": 132,
+    "image": "https://i.ibb.co.com/cQyfk88/Banner-3.jpg",
+    "headline": "Secluded Mountain Retreat",
+    "paragraph": "Escape to this secluded mountain retreat, complete with rustic charm and modern amenities. Ideal for nature lovers seeking peace and tranquility."
+  },
+  {
+    "id": 133,
+    "image": "https://i.ibb.co.com/NL5g519/Banner-2.jpg",
+    "headline": "Coastal Villa with Private Beach Access",
+    "paragraph": "This coastal villa offers private beach access and breathtaking sea views. Ideal for those seeking a luxurious coastal lifestyle."
+  },
+  {
+    "id": 134,
+    "image": "https://i.ibb.co.com/9ZzppYs/2020-Porsche-718-Cayman-GT4-005-1600.jpg",
+    "headline": "Modern Mansion with Home Theater",
+    "paragraph": "A state-of-the-art mansion with luxury features including a home theater, swimming pool, and landscaped gardens. This property is perfect for entertaining."
+  },
+  {
+    "id": 135,
+    "image": "https://i.ibb.co.com/d5wtPSK/levante-maserati-trofeo-wallpaper-preview.jpg",
+    "headline": "Luxury Penthouse with Skyline Views",
+    "paragraph": "This luxury penthouse offers breathtaking skyline views, a spacious floor plan, and private rooftop terrace. Ideal for those seeking luxury urban living."
+  },
+  {
+    "id": 136,
+    "image": "https://i.ibb.co.com/5cT4dj7/2015-Maserati-Quattroporte-DV6-Automatic-3-0-Front.jpg",
+    "headline": "Elegant Home with Private Garden",
+    "paragraph": "This elegant home is surrounded by lush greenery and features a private garden. Ideal for families looking for a quiet, suburban lifestyle."
+  },
+  {
+    "id": 137,
+    "image": "https://i.ibb.co.com/JzJtzmt/novitec-ferrari-sf90-stradale-2022.jpg",
+    "headline": "Luxury Estate with Resort-Style Pool",
+    "paragraph": "This luxury estate offers resort-style amenities, including a large swimming pool, private gym, and extensive grounds. Perfect for those seeking a luxury lifestyle."
+  },
+  {
+    "id": 138,
+    "image": "https://i.ibb.co.com/0GVGJzC/ferrari-portofino-car-wallpaper-preview.jpg",
+    "headline": "Grand Villa with Expansive Grounds",
+    "paragraph": "A grand villa set on expansive grounds, offering privacy and luxury. The property features a large pool, tennis court, and beautifully landscaped gardens."
+  },
+  {
+    "id": 139,
+    "image": "https://i.ibb.co.com/tsBJwZp/download.jpg",
+    "headline": "Modern Home with Open Floor Plan",
+    "paragraph": "This modern home features an open floor plan, perfect for entertaining. Located in a quiet neighborhood with easy access to local amenities."
+  },
+  {
+    "id": 140,
+    "image": "https://i.ibb.co.com/wYz69pm/ferrari-logo-transparent-free-png.webp",
+    "headline": "Sleek Apartment in Trendy Neighborhood",
+    "paragraph": "This sleek and stylish apartment is located in a trendy neighborhood with access to local shops and cafes. Perfect for young professionals."
+  },
+  {
+    "id": 141,
+    "image": "https://i.ibb.co.com/bmKy5nc/download.png",
+    "headline": "Riverside Home with Stunning Views",
+    "paragraph": "This stunning riverside home offers breathtaking water views and a serene atmosphere. Enjoy the best of nature with all modern conveniences."
+  },
+  {
+    "id": 142,
+    "image": "https://i.ibb.co.com/hczNM7f/download-2.jpg",
+    "headline": "Luxury Cabin with Rustic Charm",
+    "paragraph": "A luxury cabin offering rustic charm combined with modern amenities. Located in a forested area, it's the perfect retreat for those seeking tranquility."
+  },
+  {
+    "id": 143,
+    "image": "https://i.ibb.co.com/ydqDbkD/images.jpg",
+    "headline": "High-Tech Apartment with Smart Home Features",
+    "paragraph": "This high-tech apartment features the latest in smart home technology, offering convenience and luxury in one of the city's most sought-after locations."
+  },
+  {
+    "id": 144,
+    "image": "https://i.ibb.co.com/kmGcpGs/2018-lamborghini-urus-4k-wallpaper-preview.jpg",
+    "headline": "Luxury Condo with Private Gym",
+    "paragraph": "This luxury condo features a private gym, high-end finishes, and expansive living spaces. Perfect for those who value fitness and luxury."
+  },
+  {
+    "id": 145,
+    "image": "https://i.ibb.co.com/RH95QHN/edit-car-black-lamborghini-huracan-lp-610-4-wallpaper-preview.jpg",
+    "headline": "Mountain Chalet with Scenic Views",
+    "paragraph": "Escape to this luxurious mountain chalet, featuring stunning scenic views, rustic charm, and modern amenities. Perfect for winter or summer getaways."
+  },
+  {
+    "id": 146,
+    "image": "https://i.ibb.co.com/j4kgdbr/pexels-pixabay-707046.jpg",
+    "headline": "Beachfront Condo with Ocean Views",
+    "paragraph": "This beachfront condo offers panoramic ocean views and direct access to the beach. Ideal for those looking for a relaxing coastal lifestyle."
+  },
+  {
+    "id": 147,
+    "image": "https://i.ibb.co.com/2F8pWtS/pexels-andy-vu-3244513.jpg",
+    "headline": "Modern Home with Expansive Terrace",
+    "paragraph": "This modern home features an expansive terrace, perfect for outdoor entertaining. Located in a quiet neighborhood with easy access to city amenities."
+  },
+  {
+    "id": 148,
+    "image": "https://i.ibb.co.com/1nVqggH/pexels-quang-nguyen-vinh-2155293.jpg",
+    "headline": "Contemporary Villa with Infinity Pool",
+    "paragraph": "A contemporary villa featuring an infinity pool and sleek modern design. Enjoy luxury living in one of the most sought-after locations."
+  },
+  {
+    "id": 149,
+    "image": "https://i.ibb.co.com/sFwgwsR/pexels-terje-sollie-1078983.jpg",
+    "headline": "Luxury Penthouse with City Views",
+    "paragraph": "This luxury penthouse offers breathtaking city views, high-end finishes, and a private rooftop terrace. Perfect for those who value exclusivity and luxury."
+  },
+  {
+    "id": 150,
+    "image": "https://i.ibb.co.com/GM5Bwy3/pexels-sunyu-kim-3408744.jpg",
+    "headline": "Secluded Villa with Private Beach",
+    "paragraph": "A secluded villa offering ultimate privacy with a private beach and ocean views. Perfect for those looking for a luxurious and peaceful retreat."
+  },
+  {
+    "id": 151,
+    "image": "https://i.ibb.co.com/GM5Bwy3/pexels-sunyu-kim-3408744.jpg",
+    "headline": "Elegant Retreat by the Ocean",
+    "paragraph": "This elegant retreat offers ocean views and luxurious living. Enjoy serene surroundings in this coastal getaway."
+  },
+  {
+    "id": 152,
+    "image": "https://i.ibb.co.com/GM5Bwy3/pexels-sunyu-kim-3408744.jpg",
+    "headline": "Luxurious Beachfront Mansion",
+    "paragraph": "A stunning beachfront mansion with direct beach access, offering privacy and unmatched ocean views."
+  },
+  {
+    "id": 153,
+    "image": "https://i.ibb.co.com/GM5Bwy3/pexels-sunyu-kim-3408744.jpg",
+    "headline": "Seaside Villa with Infinity Pool",
+    "paragraph": "This seaside villa boasts an infinity pool overlooking the ocean, perfect for those seeking relaxation and luxury."
+  },
+  {
+    "id": 154,
+    "image": "https://i.ibb.co.com/GM5Bwy3/pexels-sunyu-kim-3408744.jpg",
+    "headline": "Exclusive Beach House with Modern Design",
+    "paragraph": "An exclusive beach house offering modern design and breathtaking ocean views, ideal for those who love the sea."
+  },
+  {
+    "id": 155,
+    "image": "https://i.ibb.co.com/GM5Bwy3/pexels-sunyu-kim-3408744.jpg",
+    "headline": "Private Island Villa with Luxury Amenities",
+    "paragraph": "A private island villa that provides luxury amenities and stunning ocean views. Ideal for secluded getaways."
+  },
+  {
+    "id": 156,
+    "image": "https://i.ibb.co.com/GM5Bwy3/pexels-sunyu-kim-3408744.jpg",
+    "headline": "Cliffside Mansion with Panoramic Views",
+    "paragraph": "This cliffside mansion offers panoramic views of the ocean, with luxury features and top-tier amenities."
+  },
+  {
+    "id": 157,
+    "image": "https://i.ibb.co.com/GM5Bwy3/pexels-sunyu-kim-3408744.jpg",
+    "headline": "Modern Oceanfront Residence",
+    "paragraph": "A modern oceanfront residence designed with sleek lines and expansive glass windows to showcase stunning views."
+  },
+  {
+    "id": 158,
+    "image": "https://i.ibb.co.com/GM5Bwy3/pexels-sunyu-kim-3408744.jpg",
+    "headline": "Oceanview Penthouse with Private Balcony",
+    "paragraph": "This oceanview penthouse features a private balcony, offering spectacular views of the water and luxurious interiors."
+  },
+  {
+    "id": 159,
+    "image": "https://i.ibb.co.com/GM5Bwy3/pexels-sunyu-kim-3408744.jpg",
+    "headline": "Exclusive Coastal Villa with Resort-Like Amenities",
+    "paragraph": "An exclusive coastal villa offering resort-like amenities and breathtaking ocean views."
+  },
+  {
+    "id": 160,
+    "image": "https://i.ibb.co.com/GM5Bwy3/pexels-sunyu-kim-3408744.jpg",
+    "headline": "Private Oceanfront Property with Expansive Grounds",
+    "paragraph": "This private oceanfront property offers expansive grounds, ideal for hosting events or enjoying secluded living."
+  },
+  {
+    "id": 161,
+    "image": "https://i.ibb.co.com/GM5Bwy3/pexels-sunyu-kim-3408744.jpg",
+    "headline": "Secluded Beach Villa with Luxe Finishes",
+    "paragraph": "A secluded beach villa with high-end finishes and an open floor plan, designed for ultimate comfort and relaxation."
+  },
+  {
+    "id": 162,
+    "image": "https://i.ibb.co.com/GM5Bwy3/pexels-sunyu-kim-3408744.jpg",
+    "headline": "Coastal Retreat with Panoramic Ocean Views",
+    "paragraph": "This coastal retreat features panoramic ocean views and modern design, perfect for those seeking a peaceful getaway."
+  },
+  {
+    "id": 163,
+    "image": "https://i.ibb.co.com/GM5Bwy3/pexels-sunyu-kim-3408744.jpg",
+    "headline": "Luxury Beachfront Home with Private Pool",
+    "paragraph": "A luxurious beachfront home complete with a private pool and direct access to pristine sandy shores."
+  },
+  {
+    "id": 164,
+    "image": "https://i.ibb.co.com/GM5Bwy3/pexels-sunyu-kim-3408744.jpg",
+    "headline": "Exclusive Villa with Unmatched Coastal Views",
+    "paragraph": "This exclusive villa offers unmatched coastal views and state-of-the-art amenities, designed for luxury living."
+  },
+  {
+    "id": 165,
+    "image": "https://i.ibb.co.com/GM5Bwy3/pexels-sunyu-kim-3408744.jpg",
+    "headline": "Seaside Estate with Private Beach",
+    "paragraph": "A grand seaside estate offering its own private beach, beautifully designed for a luxury coastal lifestyle."
+  },
+  {
+    "id": 166,
+    "image": "https://i.ibb.co.com/GM5Bwy3/pexels-sunyu-kim-3408744.jpg",
+    "headline": "Luxury Ocean Villa with Private Dock",
+    "paragraph": "This luxury ocean villa features a private dock and direct access to the sea, ideal for boating enthusiasts."
+  },
+  {
+    "id": 167,
+    "image": "https://i.ibb.co.com/GM5Bwy3/pexels-sunyu-kim-3408744.jpg",
+    "headline": "Beachfront Property with Expansive Terrace",
+    "paragraph": "This beachfront property offers an expansive terrace, ideal for outdoor entertaining while enjoying stunning ocean views."
+  },
+  {
+    "id": 168,
+    "image": "https://i.ibb.co.com/GM5Bwy3/pexels-sunyu-kim-3408744.jpg",
+    "headline": "Coastal Mansion with Exclusive Access",
+    "paragraph": "A grand coastal mansion offering exclusive access to private beaches and high-end amenities for luxury living."
+  },
+  {
+    "id": 169,
+    "image": "https://i.ibb.co.com/GM5Bwy3/pexels-sunyu-kim-3408744.jpg",
+    "headline": "Oceanview Luxury Villa with Pool and Spa",
+    "paragraph": "This oceanview luxury villa offers a private pool and spa, ideal for relaxation in a peaceful, coastal setting."
+  },
+  {
+    "id": 170,
+    "image": "https://i.ibb.co.com/GM5Bwy3/pexels-sunyu-kim-3408744.jpg",
+    "headline": "Beach House with Infinity Pool and Stunning Views",
+    "paragraph": "This beach house features an infinity pool and stunning views, perfect for those seeking both luxury and nature."
+  },
+  {
+    "id": 171,
+    "image": "https://i.ibb.co.com/GM5Bwy3/pexels-sunyu-kim-3408744.jpg",
+    "headline": "Private Villa with Oceanfront Infinity Pool",
+    "paragraph": "A private villa with an oceanfront infinity pool, designed for those who love luxury living with stunning ocean views."
+  },
+  {
+    "id": 172,
+    "image": "https://i.ibb.co.com/GM5Bwy3/pexels-sunyu-kim-3408744.jpg",
+    "headline": "Cliffside Villa with Panoramic Ocean Views",
+    "paragraph": "This cliffside villa offers panoramic ocean views and luxury features, ideal for a peaceful and exclusive coastal retreat."
+  },
+  {
+    "id": 173,
+    "image": "https://i.ibb.co.com/GM5Bwy3/pexels-sunyu-kim-3408744.jpg",
+    "headline": "Modern Coastal Villa with Stunning Sunset Views",
+    "paragraph": "A modern coastal villa offering stunning sunset views and designed with an open-plan living space to maximize enjoyment."
+  },
+  {
+    "id": 174,
+    "image": "https://i.ibb.co.com/GM5Bwy3/pexels-sunyu-kim-3408744.jpg",
+    "headline": "Secluded Luxury Villa with Private Access",
+    "paragraph": "A secluded luxury villa offering private access to the beach and oceanfront views, ideal for those seeking exclusivity."
+  },
+  {
+    "id": 175,
+    "image": "https://i.ibb.co.com/GM5Bwy3/pexels-sunyu-kim-3408744.jpg",
+    "headline": "Oceanfront Property with Expansive Deck",
+    "paragraph": "This oceanfront property features an expansive deck, perfect for outdoor dining and entertaining with breathtaking views."
+  },
+  {
+    "id": 176,
+    "image": "https://i.ibb.co.com/GM5Bwy3/pexels-sunyu-kim-3408744.jpg",
+    "headline": "Beachside Estate with Luxury Finishes",
+    "paragraph": "A luxury beachside estate offering high-end finishes and direct access to the ocean. Ideal for those seeking a peaceful escape."
+  },
+  {
+    "id": 177,
+    "image": "https://i.ibb.co.com/GM5Bwy3/pexels-sunyu-kim-3408744.jpg",
+    "headline": "Private Coastal Mansion with Modern Interiors",
+    "paragraph": "This private coastal mansion offers modern interiors and expansive living spaces with unparalleled ocean views."
+  },
+  {
+    "id": 178,
+    "image": "https://i.ibb.co.com/GM5Bwy3/pexels-sunyu-kim-3408744.jpg",
+    "headline": "Seaside Luxury Residence with Private Garden",
+    "paragraph": "A luxury seaside residence featuring a private garden and beautiful ocean views, designed for outdoor living."
+  },
+  {
+    "id": 179,
+    "image": "https://i.ibb.co.com/GM5Bwy3/pexels-sunyu-kim-3408744.jpg",
+    "headline": "Contemporary Villa with Oceanfront Access",
+    "paragraph": "This contemporary villa offers oceanfront access and breathtaking views from every room, with modern design elements."
+  },
+  {
+    "id": 180,
+    "image": "https://i.ibb.co.com/GM5Bwy3/pexels-sunyu-kim-3408744.jpg",
+    "headline": "Exclusive Ocean Villa with Private Access",
+    "paragraph": "An exclusive ocean villa offering private access to the beach, with luxury finishes and stunning ocean views."
+  },
+  {
+    "id": 181,
+    "image": "https://i.ibb.co.com/GM5Bwy3/pexels-sunyu-kim-3408744.jpg",
+    "headline": "Beachfront Residence with Luxury Features",
+    "paragraph": "This beachfront residence offers luxury features such as a private pool, modern interiors, and direct beach access."
+  },
+  {
+    "id": 182,
+    "image": "https://i.ibb.co.com/GM5Bwy3/pexels-sunyu-kim-3408744.jpg",
+    "headline": "Luxury Villa with Sweeping Ocean Views",
+    "paragraph": "A luxury villa featuring sweeping ocean views and state-of-the-art amenities, perfect for those seeking coastal elegance."
+  },
+  {
+    "id": 183,
+    "image": "https://i.ibb.co.com/GM5Bwy3/pexels-sunyu-kim-3408744.jpg",
+    "headline": "Coastal Mansion with Private Infinity Pool",
+    "paragraph": "A coastal mansion with a private infinity pool, offering breathtaking views and designed for luxury living."
+  },
+  {
+    "id": 184,
+    "image": "https://i.ibb.co.com/GM5Bwy3/pexels-sunyu-kim-3408744.jpg",
+    "headline": "Oceanfront Villa with Expansive Terrace",
+    "paragraph": "This oceanfront villa features an expansive terrace, perfect for enjoying panoramic views of the ocean and entertaining."
+  },
+  {
+    "id": 185,
+    "image": "https://i.ibb.co.com/GM5Bwy3/pexels-sunyu-kim-3408744.jpg",
+    "headline": "Private Island Villa with Beach Access",
+    "paragraph": "A private island villa offering exclusive beach access and luxurious amenities, ideal for a secluded coastal retreat."
+  },
+  {
+    "id": 186,
+    "image": "https://i.ibb.co.com/GM5Bwy3/pexels-sunyu-kim-3408744.jpg",
+    "headline": "Luxury Oceanview Home with Modern Interiors",
+    "paragraph": "A luxury oceanview home offering modern interiors and stunning views of the ocean, ideal for elegant living."
+  },
+  {
+    "id": 187,
+    "image": "https://i.ibb.co.com/GM5Bwy3/pexels-sunyu-kim-3408744.jpg",
+    "headline": "Coastal Retreat with Infinity Pool and Ocean Views",
+    "paragraph": "This coastal retreat features an infinity pool and expansive ocean views, designed for relaxation and luxury."
+  },
+  {
+    "id": 188,
+    "image": "https://i.ibb.co.com/GM5Bwy3/pexels-sunyu-kim-3408744.jpg",
+    "headline": "Exclusive Beachfront Villa with Panoramic Views",
+    "paragraph": "An exclusive beachfront villa offering panoramic views of the ocean, with luxury amenities and direct beach access."
+  },
+  {
+    "id": 189,
+    "image": "https://i.ibb.co.com/GM5Bwy3/pexels-sunyu-kim-3408744.jpg",
+    "headline": "Oceanfront Villa with Private Deck and Pool",
+    "paragraph": "This oceanfront villa offers a private deck and pool, with stunning views and designed for luxury coastal living."
+  },
+  {
+    "id": 190,
+    "image": "https://i.ibb.co.com/GM5Bwy3/pexels-sunyu-kim-3408744.jpg",
+    "headline": "Beachfront Estate with Modern Amenities",
+    "paragraph": "A beachfront estate offering modern amenities, stunning ocean views, and luxury finishes throughout."
+  },
+  {
+    "id": 191,
+    "image": "https://i.ibb.co.com/GM5Bwy3/pexels-sunyu-kim-3408744.jpg",
+    "headline": "Seaside Villa with Luxury Interiors",
+    "paragraph": "This seaside villa features luxury interiors and breathtaking views, ideal for those seeking a high-end coastal lifestyle."
+  },
+  {
+    "id": 192,
+    "image": "https://i.ibb.co.com/GM5Bwy3/pexels-sunyu-kim-3408744.jpg",
+    "headline": "Exclusive Oceanfront Estate with Private Beach",
+    "paragraph": "An exclusive oceanfront estate with its own private beach, offering luxury finishes and stunning views."
+  },
+  {
+    "id": 193,
+    "image": "https://i.ibb.co.com/GM5Bwy3/pexels-sunyu-kim-3408744.jpg",
+    "headline": "Luxury Beach House with Private Pool",
+    "paragraph": "A luxury beach house featuring a private pool, modern design, and direct access to the sandy shores."
+  },
+  {
+    "id": 194,
+    "image": "https://i.ibb.co.com/GM5Bwy3/pexels-sunyu-kim-3408744.jpg",
+    "headline": "Oceanview Penthouse with Expansive Living Spaces",
+    "paragraph": "This oceanview penthouse offers expansive living spaces and stunning views, perfect for those seeking luxury and comfort."
+  },
+  {
+    "id": 195,
+    "image": "https://i.ibb.co.com/GM5Bwy3/pexels-sunyu-kim-3408744.jpg",
+    "headline": "Private Beach Villa with Infinity Pool",
+    "paragraph": "A private beach villa featuring an infinity pool and stunning ocean views, perfect for luxury living."
+  },
+  {
+    "id": 196,
+    "image": "https://i.ibb.co.com/GM5Bwy3/pexels-sunyu-kim-3408744.jpg",
+    "headline": "Exclusive Villa with Ocean Views and Spa",
+    "paragraph": "An exclusive villa offering panoramic ocean views, a private spa, and modern amenities for luxurious living."
+  },
+  {
+    "id": 197,
+    "image": "https://i.ibb.co.com/GM5Bwy3/pexels-sunyu-kim-3408744.jpg",
+    "headline": "Beachfront Villa with Modern Architecture",
+    "paragraph": "This beachfront villa showcases modern architecture and luxury amenities, ideal for a high-end coastal lifestyle."
+  },
+  {
+    "id": 198,
+    "image": "https://i.ibb.co.com/GM5Bwy3/pexels-sunyu-kim-3408744.jpg",
+    "headline": "Oceanview Estate with Private Garden and Pool",
+    "paragraph": "An oceanview estate offering a private garden, pool, and stunning coastal views, designed for luxury living."
+  },
+  {
+    "id": 199,
+    "image": "https://i.ibb.co.com/GM5Bwy3/pexels-sunyu-kim-3408744.jpg",
+    "headline": "Luxury Oceanfront Penthouse with Expansive Views",
+    "paragraph": "This luxury oceanfront penthouse offers expansive views and high-end amenities, perfect for those seeking exclusivity."
+  },
+  {
+    "id": 200,
+    "image": "https://i.ibb.co.com/GM5Bwy3/pexels-sunyu-kim-3408744.jpg",
+    "headline": "Beachfront Villa with Modern Finishes and Pool",
+    "paragraph": "A beachfront villa featuring modern finishes, a private pool, and direct access to the ocean for luxury living."
+  }
+]
