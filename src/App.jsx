@@ -1,8 +1,10 @@
-import { useEffect, useState } from "react";
+import { useCallback, useEffect, useRef, useState } from "react";
 import { VariableSizeList } from "react-window";
 
 function App() {
   const [data, setData] = useState([]);
+  const listRef = useRef();
+  const sizeMap = useRef({});
 
   useEffect(() => {
     fetch("../public/data.json")
@@ -13,45 +15,57 @@ function App() {
       .catch((err) => console.log("Failed", err));
   }, []);
 
-  const dataSize = data.map((item) => Math.round(item.paragraph.length));
-  console.log("data:", dataSize);
+  const setItemSize = useCallback((index, size) => {
+    sizeMap.current[index] = size;
+    listRef.current.resetAfterIndex(index);
+  }, []);
 
-  //const getItemSize = (index) => dataSize[index].length;
+  const getItemSize = (index) => sizeMap.current[index] || 200;
 
-  const getItemSize = (index) =>
-    dataSize[index] < 440 ? 210 : dataSize[index] * 0.25 + 100;
+  const Row = ({ index, style }) => {
+    const rowRef = useRef();
 
-  const Row = ({ index, style }) => (
-    <div
-      className="flex border-4 border-indigo-600 justify-center h-auto"
-      style={style}
-    >
-      <img
-        src={data[index].image}
-        alt=""
-        className="w-36 h-44 mr-5 flex items-center"
-      />
-      <div className="px-4">
-        <div className="flex">
-          <h1 className="text-2xl font-semibold">{data[index].id}. </h1>
-          <h1 className="text-2xl font-semibold">{data[index].headline}</h1>
+    useEffect(() => {
+      if (rowRef.current) {
+        const height = rowRef.current.getBoundingClientRect().height;
+        setItemSize(index, height);
+      }
+    }, [index, setItemSize]);
+
+    return (
+      <div
+        ref={rowRef}
+        className="flex flex-col md:flex-row lg:flex-row border-2 border-indigo-600 p-2 gap-y-4"
+        style={{ ...style, height: "auto" }}
+      >
+        <img
+          src={data[index].image}
+          alt=""
+          className="w-36 h-44 object-cover mr-5"
+        />
+        <div className="flex flex-col">
+          <div className="flex text-xl font-semibold mb-2">
+            <span>{data[index].id}. </span>
+            <h1>{data[index].headline}</h1>
+          </div>
+          <p className="text-gray-700">{data[index]?.paragraph}</p>
         </div>
-        <h1 className="text-md font-semibold text-full">
-          {data[index].paragraph}
-        </h1>
       </div>
-    </div>
-  );
+    );
+  };
 
   return (
-    <main className="h-full flex justify-center items-center p-4">
+    <main className="h-screen flex justify-center items-center p-2 m-4">
       <VariableSizeList
+        ref={listRef}
+        className="no-scrollbar"
         height={700}
         width={800}
         itemCount={data.length}
         itemSize={getItemSize}
+        estimatedItemSize={200}
       >
-        {Row}
+        {({ index, style }) => <Row index={index} style={style} />}
       </VariableSizeList>
     </main>
   );
